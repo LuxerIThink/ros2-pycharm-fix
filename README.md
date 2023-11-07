@@ -1,5 +1,6 @@
-# Ros 2 Pycharm Intellisense Fix
-Solution for libraries import unresolved reference error in Pycharm with Ros 2 with/without Docker:
+# Ros 2 Pycharm Python Hints Fix
+Solution for unresolved reference import error in Pycharm with Ros 2 in Docker / Docker compose container.
+Easy to follow step by step solution with screenshots. Need Pycharm Professional.
 
 ## Table of contents
 * [Problem](#problem)
@@ -10,7 +11,7 @@ Solution for libraries import unresolved reference error in Pycharm with Ros 2 w
 
 ## Problem
 
-Pycharm Intelisense doesn't see ROS 2 Python libraries
+What does this problem look like?
 
 ![Screenshot](screens/others/problem.png)
 
@@ -76,6 +77,7 @@ Click <kbd> <br> OK <br> </kbd>
 
 ![Screenshot](screens/docker/step14.png)
 
+For docker compose do it similarly
 
 ### Add Ros 2 libraries
 
